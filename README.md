@@ -1,2 +1,1 @@
-# Wedding webpage
- 
+Base for wedding webpages
